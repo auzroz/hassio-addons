@@ -11,6 +11,7 @@ Everything is configurable through UI. Available params:
 | login          | MQTT broker login        |
 | password       | MQTT broker password     |
 | preface        | Preface for topics       |
-| state_suffix   | State topics suffix      |
+| state_read_suffix   | State topics read suffix |
+| state_write_suffix  | State topics write suffix |
 | command_suffix | Command topics suffix    |
 | bridge_port    | Port bridge listening on |
